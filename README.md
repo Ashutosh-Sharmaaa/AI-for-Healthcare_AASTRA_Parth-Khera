@@ -1,5 +1,5 @@
 # AI-for-Healthcare_AASTRA_Parth-Khera
-# 🧠 MRI Dataset Preprocessing – Task 1
+# MRI Dataset Preprocessing – Task 1
 
 ## Overview
 This project implements **Task-1 preprocessing** for brain MRI–based neurological disorder detection.  
